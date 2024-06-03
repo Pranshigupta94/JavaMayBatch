@@ -1,10 +1,10 @@
-package Assignment;
+package Assignment2;
 
 // write product table for given no in specific format eg 5 * 1 = 5
 
 import java.util.Scanner;
 
-public class TableFor {
+public class Table {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Input");
