@@ -6,8 +6,8 @@ public class NameInput {
 
     public String input(String name){
 
-        String result ="hi" + name;
-        System.out.println(result);
+        String result ="hi " + name;
+
         return result;
 
 
