@@ -16,6 +16,8 @@ public class test {
         System.out.println(length);
 
 
+
+
         String trim = s1.trim();
         System.out.println(trim);
 
