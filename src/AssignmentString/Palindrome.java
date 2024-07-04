@@ -12,13 +12,17 @@ public class Palindrome {
 
         int length = s1.length();
 
-        for ( int i = length - 1; i >= 0; i-- )
+        for ( int i = length - 1; i >= 0; i-- ) {
             rev = rev + s1.charAt(i);
+        }
 
-        if (s1.equals(rev))
-            System.out.println(s1+" is a palindrome");
-        else
-            System.out.println(s1+" is not a palindrome");
+
+        if (s1.equals(rev)) {
+            System.out.println(s1 + " is a palindrome");
+        }
+        else {
+            System.out.println(s1 + " is not a palindrome");
+        }
 
 
     }

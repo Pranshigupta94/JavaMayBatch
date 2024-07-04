@@ -32,5 +32,16 @@ It is always reserved in LIFO method.
 **Static keyword**- is used for memory management. 
 It belongs to the class than an instance of the class.
 
+**String** - It is an object that represent sequence of character value.
+String are arrays of characters.
+strings are immutable (that cant be changed).
 
-All three JDK, JRE and JVM are interdependent. JDK is Java Development Kit primarily meant for Developers to develop Java based applications. JRE is Java Runtime Environment where Java program runs. JDK carries JRE as an integral part of it. JRE can be installed seperately as well on systems where no developement is to be done and we only need to run the Java based application or a java program is to be executed. The JVM is a specification, and can have different implementations, as long as they adhere to the specs. The specs can be found in the below link − https://docs.oracle.com. JRE is an implementation of the JVM.
+
+**Array** -Collection of similar type of data/elements.
+
+
+All three JDK, JRE and JVM are interdependent. 
+JDK is Java Development Kit primarily meant for Developers to develop Java based applications. 
+JRE is Java Runtime Environment where Java program runs. 
+JDK carries JRE as an integral part of it. 
+JRE can be installed seperately as well on systems where no developement is to be done and we only need to run the Java based application or a java program is to be executed. The JVM is a specification, and can have different implementations, as long as they adhere to the specs. The specs can be found in the below link − https://docs.oracle.com. JRE is an implementation of the JVM.
